@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @troomtroom (Tarun)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS,Python
-- 💞️ I’m looking to collaborate on nothing much rn
-- 📫 How to reach me discord tag @.troomtroom.
-- 😄 Pronouns: ...
+- Hi, I’m Tarun
+- I’m currently learning CPP,DSA,Python
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
 <!---
